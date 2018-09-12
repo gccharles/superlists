@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="866cb483-755b-48e3-aeaa-c68b3c406fa1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlists/functional_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/functional_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlists/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlists/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tests.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lists/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="432">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -74,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functional_tests.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functional_tests.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/superlists/functional_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="151">
+              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
               <folding>
                 <element signature="e#24#54#0" expanded="true" />
               </folding>
@@ -98,6 +93,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -122,7 +120,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="895" />
+    <option name="x" value="1049" />
+    <option name="y" value="4" />
     <option name="width" value="1473" />
     <option name="height" value="1053" />
   </component>
@@ -138,22 +137,6 @@
           <expand>
             <path>
               <item name="superlists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superlists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="superlists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superlists" type="462c0819:PsiDirectoryNode" />
-              <item name="lists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="superlists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superlists" type="462c0819:PsiDirectoryNode" />
-              <item name="lists" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="superlists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superlists" type="462c0819:PsiDirectoryNode" />
               <item name="superlists" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -299,7 +282,7 @@
       <workItem from="1536716777551" duration="400000" />
       <workItem from="1536717205313" duration="916000" />
       <workItem from="1536718162920" duration="4120000" />
-      <workItem from="1536722313236" duration="7408000" />
+      <workItem from="1536722313236" duration="8055000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1536720385526</created>
@@ -308,14 +291,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536720385526</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试">
+      <created>1536734422968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536734422968</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13524000" />
+    <option name="totallyTimeSpent" value="14171000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="895" y="0" width="1473" height="1053" extended-state="0" />
+    <frame x="1049" y="4" width="1473" height="1053" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -326,12 +316,12 @@
       <window_info anchor="right" id="Redis Servers" weight="0.13021939" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32930845" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32930845" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49964616" visible="true" weight="0.45334798" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964616" weight="0.45334798" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14861996" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14861996" />
       <window_info anchor="right" id="Database" order="3" weight="0.32979476" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -350,6 +340,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -520,16 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/superlists/functional_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#24#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/superlists/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
@@ -556,10 +562,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lists/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="432">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superlists/functional_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
