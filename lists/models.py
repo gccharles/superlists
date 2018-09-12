@@ -1,3 +1,10 @@
 from django.db import models
+from django.db import models
+from django.conf import settings
 
-# Create your models here.
+settings.configure()
+
+class Item(models.Model):
+    text = models.TextField(default="")
+
+
